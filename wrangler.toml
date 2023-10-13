@@ -1,0 +1,4 @@
+name = "telegram-assistant-zhipu"
+main = "src/index.js"
+compatibility_date = "2023-10-02"
+
